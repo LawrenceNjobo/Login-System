@@ -1,0 +1,25 @@
+
+D
+java:S1604"(Make this anonymous inner class a lambda(ğ—ïE8¸²¿ş»1
+J
+java:S16046"(Make this anonymous inner class a lambda(Åİü•ıÿÿÿÿ8½²¿ş»1
+m
+java:S1104B"PMake user a static final constant or non-public and provide accessors if needed.(‹³¤²8³’Şû»1
+7
+java:S1220""Move this file to a named package.8³’Şû»1
+l
+java:S2095N"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(µÏ‰ƒ8Â’Şû»1
+j
+java:S2095J"HUse try-with-resources or close this "Connection" in a "finally" clause.(ü¦íéøÿÿÿÿ8Â’Şû»1
+i
+java:S2095L"GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ8Â’Şû»1
+C
+java:S1948B"&Make "user" transient or serializable.(‹³¤²8Ì’Şû»1
+U
+java:S1117E"8Rename "user" which hides the field declared at line 66.(Ü¥½¬8Í’Şû»1
+L	java:S106e"+Replace this use of System.out by a logger.(şÒãûÿÿÿÿ8Ö’Şû»1
+L	java:S106g"+Replace this use of System.out by a logger.(—æá‚ıÿÿÿÿ8Ö’Şû»1
+W
+java:S1128":Remove this unused import 'javax.swing.plaf.nimbus.State'.(ğÒ´Ò8Ö’Şû»1
+N
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8Ö’Şû»1
